@@ -3,9 +3,15 @@ SolidCouch is a decentralized hospitality exchange software based on [Solid Prot
 
 You can also start a community! Instructions coming soon.
 
+## Community
+
+- Join [Matrix channel](https://matrix.to/#/#solidcouch:matrix.org) and [space](https://matrix.to/#/#solidcouch-space:matrix.org)
+- [Wiki](https://github.com/solidcouch/solidcouch/wiki)
+
 ## SolidCouch Instances
 
 - [Tired Bike](https://tired.bike)
+- [SolidCouch dev instance](https://app.solidcouch.org) (testing)
 
 ## Support
 
@@ -18,7 +24,7 @@ If you want to support this project:
 ## Contribute
 
 - Give feedback, report issues
-- Join project Matrix space and channels
+- Join project Matrix [space](https://matrix.to/#/#solidcouch-space:matrix.org) and [channels](https://matrix.to/#/#solidcouch:matrix.org)
 - Participate in creating the project:
     - design
     - development
